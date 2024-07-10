@@ -121,6 +121,7 @@ main{
     display: flex;
     justify-content: space-between;
     border-radius: 15px;
+    margin-top: 42px;
 }
 .bgh{
     background-color:  rgba(255, 76, 30, 0.05);
@@ -141,4 +142,90 @@ main{
 .present{
     margin-top: 111px;
 }
+.Next{
+    margin-top: 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.act{
+    display: flex;
+    justify-content: left;
+    padding: 40px;
+
+}
+.nopic{
+    height: 108px;
+    width: 94.7px;
     
+}
+.more{
+    font-weight: bold;
+    color: black;
+}
+.Nex{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}.imicon{
+    background-image: url(../assets/handshake.jpg);
+    width: 100%;
+    height: 313px;
+    padding: 48px 64px;
+    margin-top: 49px;
+    border-radius: 15px;
+    background-position: center;
+    background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2);
+}
+.Support{
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    color: white;
+}
+.help{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    gap: 32px;
+    opacity: 0.7;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+.inp{
+ margin: auto;
+ width: 540px;
+ height: 57px;
+ margin-top: 24px;
+ border-radius: 8px;
+ font-size: 17px;
+ margin-left: 280px;
+ padding-left: 20px;
+}
+.mask{
+    align-items: center;
+}
+.btn5{
+ padding: 17px 20px;
+ width: 120px;
+ height: 57px;
+ border-radius: 8px;
+ font-size: 20px;
+ font-weight: 700;
+}
+.footer-margin{
+   
+   margin-top: 84px;
+   padding: 32px 150px 32px 150px
+}
+
+
+.foot{
+    font-size: 20px;
+    font-weight: 500;
+}
+.last{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
