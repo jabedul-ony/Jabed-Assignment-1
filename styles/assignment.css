@@ -45,6 +45,8 @@
     font-weight: 500;
     font-size: 20px;
     padding: 20px;
+    margin-bottom: 42px;
+    margin-top: 32px;
 
 }
 main{
@@ -105,3 +107,38 @@ main{
     display: flex;
     justify-content: center;
 }
+.skill-tittle{
+    font-size: 24px;
+    font-weight: 800;
+}
+.skill{
+    padding: 40px;
+    vertical-align: 32px;
+    color: black;
+   
+}
+.skill-container{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+}
+.bgh{
+    background-color:  rgba(255, 76, 30, 0.05);
+  
+}
+.bgc{
+   
+    background-color: rgba(0, 76, 232, 0.05);
+    
+    margin-left: 24px;
+    margin-right: 24px;
+}
+.bgj{
+    
+    background-color: rgba(255, 223, 0, 0.05);
+                                        
+}
+.present{
+    margin-top: 111px;
+}
+    
